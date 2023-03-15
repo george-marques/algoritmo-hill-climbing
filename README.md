@@ -1,1 +1,1 @@
-# algoritmo-him-climbing
+# algoritmo-hill-climbing
